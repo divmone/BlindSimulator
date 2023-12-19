@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.392,C:\Users\divmone\Documents\Embarcadero\Studio\Projects\Project16.dproj=C:\Users\divmone\Desktop\opi\Project16.dproj</Transaction>
+    <Transaction>2023.12.19 21:55:17.810,=C:\Users\divmone\Desktop\opi\Win32\Debug\2.txt</Transaction>
+    <Transaction>2023.12.19 21:55:17.868,=C:\Users\divmone\Desktop\opi\Win32\Debug\3.txt</Transaction>
+    <Transaction>2023.12.19 21:55:17.912,=C:\Users\divmone\Desktop\opi\Win32\Debug\4.txt</Transaction>
+    <Transaction>2023.12.19 21:55:17.956,=C:\Users\divmone\Desktop\opi\Win32\Debug\5.txt</Transaction>
+    <Transaction>2023.12.19 21:55:18.014,=C:\Users\divmone\Desktop\opi\Win32\Debug\6.txt</Transaction>
+    <Transaction>2023.12.19 21:55:18.062,=C:\Users\divmone\Desktop\opi\Win32\Debug\7.txt</Transaction>
+    <Transaction>2023.12.19 21:55:18.127,=C:\Users\divmone\Desktop\opi\Win32\Debug\8.txt</Transaction>
+    <Transaction>2023.12.19 22:43:26.021,C:\Users\divmone\Desktop\opi\Setup.dproj=C:\Users\divmone\Desktop\opi\Project16.dproj</Transaction>
+    <Transaction>2023.12.19 22:45:20.839,C:\Users\divmone\Desktop\opi\BlindSimulator.dproj=C:\Users\divmone\Desktop\opi\Setup.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
